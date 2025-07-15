@@ -1,0 +1,8 @@
+pyttsx3
+speechrecognition
+wikipedia
+opencv-python
+Pillow
+googletrans==4.0.0-rc1
+requests
+tk
